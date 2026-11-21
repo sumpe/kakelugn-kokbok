@@ -1,5 +1,5 @@
 # Cocklestove Cookbook
-- Lamb Kleftiko (w/ vegan alternative).
+- Lamb Kleftiko (or vegan alternative).
   - Cooked in a foil package inside the oven.
 - Fried Egg. Can be heated on the side of the oven.
   - The problem is getting a raw egg to stick vertically to the side of the oven long enough to cook.
@@ -8,6 +8,6 @@
 
 ## Visuals?
 
-Supposedly "kakelugn" translates English as "masonry heater" but that doesn't sound like anything I've ever heard of. Cocklestove is at least poetic.
+Supposedly "kakelugn" translates English as "masonry heater" but that doesn't sound like anything I've ever heard of. Cocklestove is at least poetic. But what's even the eptimology of that, is it a [calque](https://en.wikipedia.org/wiki/Calque)?
 
 <img width="960" height="1751" alt="image" src="https://github.com/user-attachments/assets/4d167a54-6f44-4608-b179-a58e6a3c1e4e" />
